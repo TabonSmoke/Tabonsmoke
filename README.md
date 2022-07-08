@@ -12,7 +12,7 @@ print(f'Follow {Tabware} on Github')
        OS  :  nt10
    Python  :  python 3.9.11
 Languages  :  C, Python,
-  Discord  :  898257420931977279
+  Discord  :  898257420931977278
    Server  :  993198200733319189
 ```
 
